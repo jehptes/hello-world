@@ -2,4 +2,4 @@
 Initial introduction project to github
 
 My name is Ioudom foubi jephte , i study at 
-Nova Information management school description 
+Nova Information management school.
