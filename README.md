@@ -1,8 +1,7 @@
 # hello-world
-Initial introduction project to github
+Initial introduction project to github.
 
-My name is Ioudom foubi jephte , i study at 
-Nova Information management school.
+My name is Ioudom foubi jephte and I study at Nova Information management school, based in Lisbon, Portugal. 
 
 ## Subheader
 
