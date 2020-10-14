@@ -6,4 +6,4 @@ Nova Information management school.
 
 ## Subheader
 
-Watch tutorials on youtube
+Watch tutorials on youtube.
